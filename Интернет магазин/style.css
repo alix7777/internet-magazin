@@ -3,6 +3,9 @@ body {
     background-color: black;
     color: white;
     font-family: "Rubik", sans-serif;
+    max-width: 700px;
+    position: relative;
+    margin: 0 auto;
 }
 header {
     position: relative;
