@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const mapping = [
           ['model', 'Модель: '],
-          ['article', 'Артикул: '],
+          ['article', 'Артикул на WB: '],
           ['color', 'Цвет: '],
           ['sim', 'SIM-карта: '],
           ['operatingsystem', 'Операционная система: '],
