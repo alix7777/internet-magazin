@@ -69,11 +69,9 @@ header, main, footer, #cart {
     margin: 0 0 6px 0;
     font-size: 18px;
 }
-
 .slider {
     position: relative;
-    width: 350px;
-    height: 250px;
+    height: 500px;
     overflow: hidden;
 }
 .slider img.slide-image {
