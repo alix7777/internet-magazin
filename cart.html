@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Корзина — Интернет-магазин</title>
+  <link rel="stylesheet" href="./style.css" type="text/css" />
+  <script defer src="./cart.js"></script>
+</head>
+<body>
+  <header>
+    <div>
+      <img src="./logo.png" alt="logo">
+      <p>Название сайта ещё в разработке</p>
+    </div>
+    <div id="filter">
+      <div>
+        <input id="search" type="text">
+        <img src="./search.png" alt="search">
+      </div>
+    </div>
+    <a href="cart.html" id="cart" title="корзина">
+      <img src="./cart.png" alt="cart">
+      <span id="cart-product-counter">0</span>
+    </a>
+  </header>
+
+  <main id="cart-root">
+    <h1>Корзина</h1>
+    <div id="cart-empty" style="display:none">
+      <p>Ваша корзина пуста.</p>
+      <a href="index.html">Вернуться в каталог</a>
+    </div>
+
+    <div id="cart-container" style="display:none">
+      <ul id="cart-list"></ul>
+
+      <div id="cart-summary">
+        <strong>Итого: <span id="cart-subtotal">0.00</span> ₽</strong>
+      </div>
+
+      <div id="cart-actions">
+        <button id="clear-cart">Очистить корзину</button>
+        <button id="checkout">Оформить заказ</button>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div>
+      <a href="https://www.youtube.com/watch?v=5SZYz7lZRRI">Связь</a>
+    </div>
+    <div>Автор сайта: Алижан Абаев (a. k. a. AliX)</div>
+  </footer>
+</body>
+</html>
