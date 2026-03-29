@@ -99,3 +99,11 @@ header, main, footer, #cart {
 }
 .arrow-back { left: 6px; }
 .arrow-forward { right: 6px; }
+#cart-list { list-style: none; padding: 0; margin: 0; }
+.cart-item { display: flex; gap: 12px; padding: 12px 0; border-bottom: 1px solid #eee; }
+.cart-item img { display: block; }
+.ci-right { flex: 1; }
+.ci-title { font-weight: 600; margin-bottom: 6px; }
+#cart-summary { margin-top: 12px; }
+#cart-actions { margin-top: 8px; }
+#cart-actions button { margin-right: 8px; }
