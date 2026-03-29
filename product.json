@@ -1,4 +1,41 @@
 {
+    "Банан": {
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLD3Us2Am926-VuRW1fqPD0mppJ7WGlUw0gA&s",
+            "https://netgoloda.ru/images/stories/banan.jpg",
+            "https://s0.rbk.ru/v6_top_pics/resized/1440xH/media/img/0/15/756405191392150.jpg",
+            "https://calorizator.ru/sites/default/files/imagecache/product_512/product/banana.jpg",
+            "https://images.gastronom.ru/67dboEmnG_IipidRxr-clO1Dtxlu7oN7_dgaitpZqvg/pr:product-preview-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzL2YwN2VlN2EyLTE2MTUtNDAwYS04MjExLTNiZTA5OTc5OGMwZS5qcGc.webp"
+        ],
+        "article": "банан",
+        "color": "банан",
+        "model": "банан",
+        "sim": "банан",
+        "operatingsystem": "банан",
+        "operatingsystemversion": "банан",
+        "warrantyperiod": "банан",
+        "displayscreentype": "банан",
+        "screendiagonal": "банан",
+        "screenresolution": "банан",
+        "builtinmemorycapacity": "банан",
+        "ramcapacity": "банан",
+        "memorycardtype": "банан",
+        "maincamera": "банан",
+        "frontcamera": "банан",
+        "additionalcameraoptions": "банан",
+        "numberofsimcards": "банан",
+        "communicationstandard": "банан",
+        "wirelessinterfaces": "банан",
+        "satellitenavigation": "банан",
+        "connectortype": "банан",
+        "equipment": "банан",
+        "countryoforigin": "банан",
+        "weightofproductwithpackaging": "банан",
+        "lengthofpackaging": "банан",
+        "packagingheight": "банан",
+        "packagingwidth": "банан"
+    },
+{
     "Redmi A5 4+128GB": {
         "images": [
             "https://alm-basket-cdn-03.geobasket.net/vol3845/part384557/384557726/images/big/1.webp",
